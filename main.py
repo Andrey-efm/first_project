@@ -1,6 +1,5 @@
 def hello():
-    print("Hello, World!")
-    print("Добро пожаловать в мой проект!")
+    print('Hello from repository!')
 
 if __name__ == "__main__":
     hello()
